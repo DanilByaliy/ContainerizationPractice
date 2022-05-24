@@ -1,0 +1,15 @@
+{
+  "name": "progect_nodejs",
+  "version": "1.0.0",
+  "description": "a simple project for the third laboratory work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danil Bialyi <byaliy03@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
